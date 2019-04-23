@@ -1,0 +1,5 @@
+setup.py
+MyFirstExecutble.egg-info/PKG-INFO
+MyFirstExecutble.egg-info/SOURCES.txt
+MyFirstExecutble.egg-info/dependency_links.txt
+MyFirstExecutble.egg-info/top_level.txt
